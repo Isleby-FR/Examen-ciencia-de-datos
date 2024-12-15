@@ -9,3 +9,10 @@ Este proyecto busca predecir los ingresos anuales de encuestados en EE.UU. utili
 ## Archivos
 - `ingresos.txt`: Dataset con información sobre estatura, peso, ingresos, entre otros.
 - `examen.ipynb`: Cuaderno Jupyter con el desarrollo del análisis.
+
+## Actualización del Proyecto
+### Exploración de datos
+Se realizó una exploración inicial para entender la estructura del dataset.
+
+### Análisis PCA
+Se aplicó un análisis de componentes principales (PCA) para reducir la dimensionalidad y visualizar los datos.
